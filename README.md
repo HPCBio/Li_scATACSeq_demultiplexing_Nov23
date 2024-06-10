@@ -1,5 +1,7 @@
 # Li_scATACSeq_demultiplexing_Nov23
 
+Repository of code used for demultiplexing Xin Li's scATACSeq data from November 2023.
+
 ## Order of scripts w/o filtering variants
 
 _Recommended method_
