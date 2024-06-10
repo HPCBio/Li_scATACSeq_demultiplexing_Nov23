@@ -1,6 +1,7 @@
 # Li_scATACSeq_demultiplexing_Nov23
 
-##Order of scripts w/o filtering variants
+## Order of scripts w/o filtering variants
+
 _Recommended method_
 
 1. Sentieon_Ey-1_varcalling_slurm.sh
@@ -10,7 +11,7 @@ _Recommended method_
 5. popscle_pileup_Ey-freemuxlet.sh
 6. popscle_freemuxlet_Ey.sh 
 
-##Order of scripts w/ filtering variants
+## Order of scripts w/ filtering variants
 
 1. Sentieon_Ey-1_varcalling_slurm.sh
 2. Sentieon_Ey-2_varcalling_slurm.sh
